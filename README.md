@@ -14,7 +14,7 @@
 2) Open the Ubuntu terminal and launch the script: `sudo bash configure_wsl_nvidia.sh`
 It will configure the Cuda toolkit inside your wsl and install all the necessary dependencies and docker.
 
-## FONTI:
+## Reference:
 1) https://github.com/ashishpatel26/Cuda-installation-on-WSL2-Ubuntu-20.04-and-Windows11?tab=readme-ov-file
 2) https://developer.nvidia.com/cuda/wsl
 3) https://docs.nvidia.com/cuda/wsl-user-guide/index.html
